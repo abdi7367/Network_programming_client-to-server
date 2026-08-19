@@ -1,0 +1,11 @@
+tcp_echo
+udp_server
+http_server
+file_server
+file_client
+received_*
+*.o
+*.obj
+*.exe
+*.ilk
+*.pdb
